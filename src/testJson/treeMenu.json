@@ -1,0 +1,617 @@
+[
+    {
+        "label": "缺陷",
+        "value": "缺陷",
+        "children": [
+            {
+                "label": "表面质量缺陷",
+                "value": "表面质量缺陷",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "表面质量缺陷"
+            },
+            {
+                "label": "压入氧化铁皮",
+                "value": "压入氧化铁皮",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "压入氧化铁皮"
+            },
+            {
+                "label": "厚薄不均",
+                "value": "厚薄不均",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "厚薄不均"
+            },
+            {
+                "label": "孔洞缺陷",
+                "value": "孔洞缺陷",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "孔洞缺陷"
+            },
+            {
+                "label": "扁卷",
+                "value": "扁卷",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "扁卷"
+            },
+            {
+                "label": "气泡",
+                "value": "气泡",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "气泡"
+            },
+            {
+                "label": "氧化铁皮",
+                "value": "氧化铁皮",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "氧化铁皮"
+            },
+            {
+                "label": "结疤",
+                "value": "结疤",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "结疤"
+            },
+            {
+                "label": "表面夹杂",
+                "value": "表面夹杂",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "表面夹杂"
+            },
+            {
+                "label": "轧件镰刀弯",
+                "value": "轧件镰刀弯",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "轧件镰刀弯"
+            },
+            {
+                "label": "轧烂",
+                "value": "轧烂",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "轧烂"
+            },
+            {
+                "label": "辊印",
+                "value": "辊印",
+                "children": [],
+                "entityCount": 1,
+                "isEntity": true,
+                "key": "辊印"
+            }
+        ],
+        "entityCount": 11,
+        "isEntity": false,
+        "key": "缺陷"
+    },
+    {
+        "label": "原因",
+        "value": "原因",
+        "children": [
+            {
+                "label": "物料原因",
+                "value": "物料原因",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "物料原因"
+            },
+            {
+                "label": "连铸阶段原因",
+                "value": "连铸阶段原因",
+                "children": [
+                    {
+                        "label": "含硅较高的钢中容易产生红铁皮",
+                        "value": "含硅较高的钢中容易产生红铁皮",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "含硅较高的钢中容易产生红铁皮"
+                    },
+                    {
+                        "label": "板坯厚度差和楔形",
+                        "value": "板坯厚度差和楔形",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯厚度差和楔形"
+                    },
+                    {
+                        "label": "板坯宽度差异",
+                        "value": "板坯宽度差异",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯宽度差异"
+                    },
+                    {
+                        "label": "沸腾钢中氧化铁皮较多",
+                        "value": "沸腾钢中氧化铁皮较多",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "沸腾钢中氧化铁皮较多"
+                    },
+                    {
+                        "label": "连铸夹杂物",
+                        "value": "连铸夹杂物",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "连铸夹杂物"
+                    },
+                    {
+                        "label": "钢坯纵裂纹",
+                        "value": "钢坯纵裂纹",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "钢坯纵裂纹"
+                    }
+                ],
+                "entityCount": 6,
+                "isEntity": false,
+                "key": "连铸阶段原因"
+            },
+            {
+                "label": "轧制阶段原因",
+                "value": "轧制阶段原因",
+                "children": [
+                    {
+                        "label": "冷轧原因",
+                        "value": "冷轧原因",
+                        "children": [],
+                        "entityCount": 0,
+                        "isEntity": false,
+                        "key": "冷轧原因"
+                    },
+                    {
+                        "label": "E-TBL 问题",
+                        "value": "E-TBL 问题",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "E-TBL 问题"
+                    },
+                    {
+                        "label": "一次铁皮难于除尽",
+                        "value": "一次铁皮难于除尽",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "一次铁皮难于除尽"
+                    },
+                    {
+                        "label": "卷取机 PR 问题",
+                        "value": "卷取机 PR 问题",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "卷取机 PR 问题"
+                    },
+                    {
+                        "label": "大立辊设定不合理",
+                        "value": "大立辊设定不合理",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "大立辊设定不合理"
+                    },
+                    {
+                        "label": "板坯夹杂轧后暴露",
+                        "value": "板坯夹杂轧后暴露",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯夹杂轧后暴露"
+                    },
+                    {
+                        "label": "板坯夹杂轧后残留",
+                        "value": "板坯夹杂轧后残留",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯夹杂轧后残留"
+                    },
+                    {
+                        "label": "板坯缺陷未清理干净",
+                        "value": "板坯缺陷未清理干净",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯缺陷未清理干净"
+                    },
+                    {
+                        "label": "粗轧机可逆轧制",
+                        "value": "粗轧机可逆轧制",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "粗轧机可逆轧制"
+                    },
+                    {
+                        "label": "粗轧精轧冷却水和切水板不均匀",
+                        "value": "粗轧精轧冷却水和切水板不均匀",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "粗轧精轧冷却水和切水板不均匀"
+                    },
+                    {
+                        "label": "粗轧精轧牌坊间隙、轴承间隙过大",
+                        "value": "粗轧精轧牌坊间隙、轴承间隙过大",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "粗轧精轧牌坊间隙、轴承间隙过大"
+                    },
+                    {
+                        "label": "精轧侧导板开口度设定不合理",
+                        "value": "精轧侧导板开口度设定不合理",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "精轧侧导板开口度设定不合理"
+                    },
+                    {
+                        "label": "精轧过程中秒流量不匹配",
+                        "value": "精轧过程中秒流量不匹配",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "精轧过程中秒流量不匹配"
+                    },
+                    {
+                        "label": "轧制时压入板面",
+                        "value": "轧制时压入板面",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧制时压入板面"
+                    },
+                    {
+                        "label": "轧制时压入钢板表面",
+                        "value": "轧制时压入钢板表面",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧制时压入钢板表面"
+                    },
+                    {
+                        "label": "轧制节奏过快",
+                        "value": "轧制节奏过快",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧制节奏过快"
+                    },
+                    {
+                        "label": "轧机压下差",
+                        "value": "轧机压下差",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧机压下差"
+                    },
+                    {
+                        "label": "轧辊不水平",
+                        "value": "轧辊不水平",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧辊不水平"
+                    },
+                    {
+                        "label": "轧辊冷却不良",
+                        "value": "轧辊冷却不良",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧辊冷却不良"
+                    },
+                    {
+                        "label": "轧辊氧化膜脱落",
+                        "value": "轧辊氧化膜脱落",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧辊氧化膜脱落"
+                    },
+                    {
+                        "label": "轧辊磨损不均",
+                        "value": "轧辊磨损不均",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "轧辊磨损不均"
+                    },
+                    {
+                        "label": "辊型配置不当",
+                        "value": "辊型配置不当",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊型配置不当"
+                    },
+                    {
+                        "label": "辊子局部掉肉",
+                        "value": "辊子局部掉肉",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊子局部掉肉"
+                    },
+                    {
+                        "label": "辊子疲劳",
+                        "value": "辊子疲劳",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊子疲劳"
+                    },
+                    {
+                        "label": "辊子粘有异物",
+                        "value": "辊子粘有异物",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊子粘有异物"
+                    },
+                    {
+                        "label": "辊子表面粘有异物",
+                        "value": "辊子表面粘有异物",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊子表面粘有异物"
+                    },
+                    {
+                        "label": "辊子龟裂",
+                        "value": "辊子龟裂",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊子龟裂"
+                    },
+                    {
+                        "label": "辊缝调整不当",
+                        "value": "辊缝调整不当",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "辊缝调整不当"
+                    },
+                    {
+                        "label": "铁皮未挤松",
+                        "value": "铁皮未挤松",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "铁皮未挤松"
+                    },
+                    {
+                        "label": "除鳞水使用不当",
+                        "value": "除鳞水使用不当",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "除鳞水使用不当"
+                    },
+                    {
+                        "label": "除鳞水压力低",
+                        "value": "除鳞水压力低",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "除鳞水压力低"
+                    },
+                    {
+                        "label": "除鳞水喷嘴堵塞",
+                        "value": "除鳞水喷嘴堵塞",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "除鳞水喷嘴堵塞"
+                    },
+                    {
+                        "label": "除鳞水角度不对",
+                        "value": "除鳞水角度不对",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "除鳞水角度不对"
+                    }
+                ],
+                "entityCount": 32,
+                "isEntity": false,
+                "key": "轧制阶段原因"
+            },
+            {
+                "label": "其他原因",
+                "value": "其他原因",
+                "children": [
+                    {
+                        "label": "上面堆放钢卷",
+                        "value": "上面堆放钢卷",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "上面堆放钢卷"
+                    },
+                    {
+                        "label": "卧卷堆放",
+                        "value": "卧卷堆放",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "卧卷堆放"
+                    },
+                    {
+                        "label": "多层堆放钢卷",
+                        "value": "多层堆放钢卷",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "多层堆放钢卷"
+                    },
+                    {
+                        "label": "搬运过程中承受过大的冲击",
+                        "value": "搬运过程中承受过大的冲击",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "搬运过程中承受过大的冲击"
+                    }
+                ],
+                "entityCount": 4,
+                "isEntity": false,
+                "key": "其他原因"
+            },
+            {
+                "label": "加热炉原因",
+                "value": "加热炉原因",
+                "children": [
+                    {
+                        "label": "测试原因11",
+                        "value": "测试原因11",
+                        "children": [],
+                        "entityCount": 0,
+                        "isEntity": false,
+                        "key": "测试原因11"
+                    },
+                    {
+                        "label": "加热工艺不当",
+                        "value": "加热工艺不当",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "加热工艺不当"
+                    },
+                    {
+                        "label": "加热时间过长",
+                        "value": "加热时间过长",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "加热时间过长"
+                    },
+                    {
+                        "label": "加热温度过高",
+                        "value": "加热温度过高",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "加热温度过高"
+                    },
+                    {
+                        "label": "板坯加热温度不均",
+                        "value": "板坯加热温度不均",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯加热温度不均"
+                    },
+                    {
+                        "label": "板坯在炉时间长",
+                        "value": "板坯在炉时间长",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯在炉时间长"
+                    },
+                    {
+                        "label": "板坯温度不均匀",
+                        "value": "板坯温度不均匀",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "板坯温度不均匀"
+                    },
+                    {
+                        "label": "氧化气氛过强",
+                        "value": "氧化气氛过强",
+                        "children": [],
+                        "entityCount": 1,
+                        "isEntity": true,
+                        "key": "氧化气氛过强"
+                    }
+                ],
+                "entityCount": 7,
+                "isEntity": false,
+                "key": "加热炉原因"
+            },
+            {
+                "label": "热轧原因",
+                "value": "热轧原因",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "热轧原因"
+            }
+        ],
+        "entityCount": 49,
+        "isEntity": false,
+        "key": "原因"
+    },
+    {
+        "label": "报警",
+        "value": "报警",
+        "children": [
+            {
+                "label": "加热炉报警",
+                "value": "加热炉报警",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "加热炉报警"
+            },
+            {
+                "label": "卷取报警",
+                "value": "卷取报警",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "卷取报警"
+            },
+            {
+                "label": "粗轧报警",
+                "value": "粗轧报警",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "粗轧报警"
+            },
+            {
+                "label": "精轧报警",
+                "value": "精轧报警",
+                "children": [],
+                "entityCount": 0,
+                "isEntity": false,
+                "key": "精轧报警"
+            }
+        ],
+        "entityCount": 0,
+        "isEntity": false,
+        "key": "报警"
+    }
+]

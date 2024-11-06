@@ -1,0 +1,86 @@
+.tree-menus {
+
+    .tree-menu {
+        cursor: pointer;
+        margin: 0.5rem 0.5rem 0.5rem 0;
+
+        .tree-menu-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: @main-menu-height;
+            // font-size: @main-menu-font-size;
+
+            .open-close-menu {
+                cursor: pointer;
+                margin-right: 0.5rem;
+            }
+
+            .tree-menu-text {
+                font-family: @main-menu-font-family;
+                font-weight: @main-menu-font-weight;
+            }
+
+            .tree-menu-operation {
+                // position: absolute;
+                // right: 2rem;
+
+                .edit-next-level {
+                    cursor: pointer;
+                }
+            }
+
+            &:hover{
+                background-color: darken(#F5F6F7, 10%);
+            }
+        }
+
+
+        .sub-tree-menu {
+            margin: 0.5rem 0 0.5rem 2.5rem; // 为了让右侧的 操作符对齐，所以右margin设为0
+
+            cursor: pointer;
+
+            .sub-tree-menu-content {
+                display: flex;
+                justify-content: space-between;
+
+                // font-size: @sub-menu-font-size;
+                height: @sub-menu-height;
+                line-height: @sub-menu-height;
+
+                .open-close-menu {
+                    // cursor: pointer;
+                    margin-right: 0.5rem;
+                }
+
+                .sub-tree-menu-text {
+                    font-family: @sub-menu-font-family;
+                    font-weight: @sub-menu-font-weight;
+                }
+
+                .tree-menu-operation {
+                    // float: right;
+                }
+
+                &:hover{
+                    background-color: darken(#F5F6F7, 10%);
+                }
+            }
+
+
+
+
+            .add-new-signal {
+                margin: 5px 20px;
+                color: @sub-menu-color;
+
+                cursor: pointer;
+
+                font-family: @sub-menu-font-family;
+                font-weight: @sub-menu-font-weight;
+                // font-size: @sub-menu-font-size;
+            }
+        }
+    }
+}

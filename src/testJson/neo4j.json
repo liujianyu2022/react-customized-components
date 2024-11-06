@@ -1,0 +1,224 @@
+{
+    "id": "1853707896208486400",
+    "nodes": [
+        {
+            "name": "压入氧化铁皮",
+            "type": "缺陷",
+            "highlight": true,
+            "main": true,
+            "id": "压入氧化铁皮"
+        },
+        {
+            "name": "除鳞水喷嘴堵塞",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "除鳞水喷嘴堵塞"
+        },
+        {
+            "name": "氧化铁皮",
+            "type": "缺陷",
+            "highlight": false,
+            "main": false,
+            "id": "氧化铁皮"
+        },
+        {
+            "name": "除鳞水压力低",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "除鳞水压力低"
+        },
+        {
+            "name": "铁皮未挤松",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "铁皮未挤松"
+        },
+        {
+            "name": "大立辊设定不合理",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "大立辊设定不合理"
+        },
+        {
+            "name": "加热温度过高",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "加热温度过高"
+        },
+        {
+            "name": "加热时间过长",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "加热时间过长"
+        },
+        {
+            "name": "轧制时压入钢板表面",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "轧制时压入钢板表面"
+        },
+        {
+            "name": "一次铁皮难于除尽",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "一次铁皮难于除尽"
+        },
+        {
+            "name": "沸腾钢中氧化铁皮较多",
+            "type": "原因",
+            "highlight": false,
+            "main": false,
+            "id": "沸腾钢中氧化铁皮较多"
+        },
+        {
+            "name": "轧辊氧化膜脱落",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "轧辊氧化膜脱落"
+        },
+        {
+            "name": "轧辊冷却不良",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "轧辊冷却不良"
+        },
+        {
+            "name": "轧制节奏过快",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "轧制节奏过快"
+        },
+        {
+            "name": "加热工艺不当",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "加热工艺不当"
+        },
+        {
+            "name": "钢坯纵裂纹",
+            "type": "原因",
+            "highlight": true,
+            "main": false,
+            "id": "钢坯纵裂纹"
+        }
+    ],
+    "links": [
+        {
+            "source": "压入氧化铁皮",
+            "target": "除鳞水压力低",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-除鳞水压力低"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "铁皮未挤松",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-铁皮未挤松"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "大立辊设定不合理",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-大立辊设定不合理"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "加热温度过高",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-加热温度过高"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "加热时间过长",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-加热时间过长"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "轧制时压入钢板表面",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-轧制时压入钢板表面"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "一次铁皮难于除尽",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-一次铁皮难于除尽"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "沸腾钢中氧化铁皮较多",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-沸腾钢中氧化铁皮较多"
+        },
+        {
+            "source": "压入氧化铁皮",
+            "target": "除鳞水喷嘴堵塞",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-除鳞水喷嘴堵塞"
+        },
+        {
+            "source": "氧化铁皮",
+            "target": "除鳞水喷嘴堵塞",
+            "type": "产生原因",
+            "highlight": false,
+            "id": "氧化铁皮-除鳞水喷嘴堵塞"
+        },
+        {
+            "source": "压入氧化铁皮",
+            "target": "轧辊氧化膜脱落",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-轧辊氧化膜脱落"
+        },
+        {
+            "source": "压入氧化铁皮",
+            "target": "轧辊冷却不良",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-轧辊冷却不良"
+        },
+        {
+            "source": "压入氧化铁皮",
+            "target": "轧制节奏过快",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-轧制节奏过快"
+        },
+        {
+            "source": "压入氧化铁皮",
+            "target": "加热工艺不当",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-加热工艺不当"
+        },
+        {
+            "source": "压入氧化铁皮",
+            "target": "钢坯纵裂纹",
+            "type": "产生原因",
+            "highlight": true,
+            "id": "压入氧化铁皮-钢坯纵裂纹"
+        }
+    ]
+}
